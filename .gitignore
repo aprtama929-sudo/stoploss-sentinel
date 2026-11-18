@@ -1,0 +1,6 @@
+.testnet-wallet
+deployments.env
+out/
+cache/
+broadcast/
+.testnet-wallet-2
